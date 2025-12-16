@@ -1,1 +1,1 @@
-# -Taste-of-the-World-Cafe-SQL-Data-Analysis-Project
+# Taste-of-the-World-Cafe-SQL-Data-Analysis-Project
